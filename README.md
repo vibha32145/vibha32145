@@ -1,4 +1,4 @@
-
+![logo](https://github.com/vibha32145/vibha32145/blob/main/Github%20background.png)
 
 <h1 align="center">Hi 👋, I'm Vibha Gupta</h1>
 <h3 align="center">A passionate MERN Full Stack Developer from India</h3>
